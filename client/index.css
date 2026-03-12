@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+@theme {
+  --color-brand-dark: #0A0B1A;
+  --color-brand-primary: #0B1E7A;
+  --color-brand-lightbg: #F7F8FC;
+  --font-eloquia: "Eloquia", sans-serif;
+  --font-sans: "Eloquia", sans-serif;
+}
+
+body {
+  margin: 0;
+  font-family: 'eloquia', system-ui, Avenir, Helvetica, Arial, sans-serif;
+  background-color: #f8fafc;
+  color: #0f172a;
+}
